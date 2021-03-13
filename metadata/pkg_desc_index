@@ -5,7 +5,7 @@ dev-db/msodbcsql 17.6.1.1.1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.6.1.1.1: SQL Server command-line tools on Linux
 dev-db/pg_activity 2.1.1: Realtime PostgreSQL database server monitoring tool
 dev-python/cfgv 3.1.0: Validate configuration and produce human readable error messages
-dev-python/dargor-py 0.2.0: Dargor's most common routines
+dev-python/dargor-py 0.2.1: Dargor's most common routines
 dev-python/dictdiffer 0.8.1: Dictdiffer is a module that helps you to diff and patch dictionaries
 dev-python/editdistance 0.5.3: Fast implementation of the edit distance (Levenshtein distance)
 dev-python/flake8-bugbear 21.3.2: A plugin for Flake8 finding likely bugs and design problems in your program
