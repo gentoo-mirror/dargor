@@ -6,7 +6,7 @@
     <email>linder.gabriel@gmail.com</email>
   </maintainer>
   <upstream>
-    <remote-id type="github">roy-ht/editdistance</remote-id>
-    <remote-id type="pypi">editdistance</remote-id>
+    <remote-id type="github">asottile/editdistance-s</remote-id>
+    <remote-id type="pypi">editdistance-s</remote-id>
   </upstream>
 </pkgmetadata>

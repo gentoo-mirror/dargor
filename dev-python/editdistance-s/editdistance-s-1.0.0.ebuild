@@ -8,8 +8,8 @@ PYTHON_COMPAT=( python3_{7..9} )
 inherit distutils-r1
 
 DESCRIPTION="Fast implementation of the edit distance (Levenshtein distance)"
-HOMEPAGE="https://github.com/roy-ht/editdistance https://pypi.org/project/editdistance/"
-SRC_URI="https://github.com/roy-ht/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+HOMEPAGE="https://github.com/asottile/editdistance-s https://pypi.org/project/editdistance-s/"
+SRC_URI="https://github.com/asottile/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
@@ -17,5 +17,5 @@ KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 BDEPEND="
-	dev-python/cython[${PYTHON_USEDEP}]
+	dev-python/cffi[${PYTHON_USEDEP}]
 "
