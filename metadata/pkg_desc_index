@@ -20,7 +20,7 @@ dev-python/flake8-use-fstring 1.1: Jump-start into modern Python by forcing your
 dev-python/identify 2.2.0: File identification library for Python
 dev-python/nodeenv 1.5.0: Node.js virtual environment builder
 dev-python/pretty-errors 1.2.19: Prettify Python exception output to make it legible
-dev-python/ptpython 3.0.16: Python REPL build on top of prompt_toolkit
+dev-python/ptpython 3.0.17: Python REPL build on top of prompt_toolkit
 dev-util/ctags 20210103: Exuberant Ctags creates tags files for code browsing in editors
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
 dev-util/pre-commit 2.11.1: Framework for managing and maintaining multi-language pre-commit hooks
