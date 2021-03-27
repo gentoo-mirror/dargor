@@ -4,6 +4,3 @@
 
 dev-python/dargor-py:pandas - Install dev-python/pandas
 dev-python/ptpython:ipython - Add support for dev-python/ipython
-dev-util/ctags:json - Enable JSON output support
-dev-util/ctags:xml - Enable XML parsing support
-dev-util/ctags:yaml - Enable YAML parsing support
