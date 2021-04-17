@@ -22,5 +22,5 @@ dev-python/nodeenv 1.6.0: Node.js virtual environment builder
 dev-python/pretty-errors 1.2.19: Prettify Python exception output to make it legible
 dev-python/ptpython 3.0.17: Python REPL build on top of prompt_toolkit
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
-dev-util/pre-commit 2.12.0: Framework for managing and maintaining multi-language pre-commit hooks
+dev-util/pre-commit 2.12.1: Framework for managing and maintaining multi-language pre-commit hooks
 net-misc/rabbitmq-server 3.8.14: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
