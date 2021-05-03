@@ -17,4 +17,4 @@ dev-python/flake8-use-fstring 1.1: Jump-start into modern Python by forcing your
 dev-python/pretty-errors 1.2.20: Prettifies Python exception output to make it legible
 dev-python/ptpython 3.0.17: Python REPL build on top of prompt_toolkit
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
-net-misc/rabbitmq-server 3.8.14: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
+net-misc/rabbitmq-server 3.8.15: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
