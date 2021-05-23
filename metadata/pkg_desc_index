@@ -14,7 +14,7 @@ dev-python/flake8-isort 4.0.0: Flake8 plugin that integrates isort
 dev-python/flake8-logging-format 0.6.0: Flake8 extension to validate (lack of) logging format strings
 dev-python/flake8-quotes 3.2.0: Flake8 extension to lint for quotes
 dev-python/flake8-use-fstring 1.1: Jump-start into modern Python by forcing yourself to use f-strings
-dev-python/pretty-errors 1.2.20: Prettifies Python exception output to make it legible
+dev-python/pretty-errors 1.2.21: Prettifies Python exception output to make it legible
 dev-python/ptpython 3.0.17: Python REPL build on top of prompt_toolkit
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
 net-misc/rabbitmq-server 3.8.16: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
