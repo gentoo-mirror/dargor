@@ -18,3 +18,4 @@ dev-python/pretty-errors 1.2.21: Prettifies Python exception output to make it l
 dev-python/ptpython 3.0.17: Python REPL build on top of prompt_toolkit
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
 net-misc/rabbitmq-server 3.8.16: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
+net-proxy/squid 5.0.6: A full-featured web proxy cache
