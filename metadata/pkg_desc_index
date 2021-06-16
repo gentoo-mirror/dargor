@@ -1,5 +1,6 @@
 acct-group/rabbitmq 0: RabbitMQ program group
 acct-user/rabbitmq 0: RabbitMQ program user
+app-misc/gron 0.6.1: Transforms JSON into assignments to grep for what you want
 app-misc/tmux-xpanes 4.1.3: tmux-based terminal divider
 dev-db/msodbcsql 17.7.2.1.1-r1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.7.1.1.1-r1: Microsoft SQL Server command-line tools
