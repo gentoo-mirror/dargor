@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 dev-python/dargor-py:pandas - Install dev-python/pandas
+dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
 net-proxy/squid:aio - Enable asynchronous IO support
 net-proxy/squid:ecap - Adds support for loadable content adaptation modules (http://www.e-cap.org)
