@@ -23,3 +23,4 @@ dev-python/ptpython 3.0.19: Python REPL build on top of prompt_toolkit
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
 net-misc/rabbitmq-server 3.8.19: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
 net-proxy/squid 5.0.6_p20210604: A full-featured web proxy cache
+sys-firmware/sof-firmware 1.8: Sound Open Firmware (SOF) binary files
