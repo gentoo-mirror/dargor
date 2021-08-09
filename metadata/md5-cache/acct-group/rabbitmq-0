@@ -1,8 +1,0 @@
-DEFINED_PHASES=install preinst pretend
-DESCRIPTION=RabbitMQ program group
-EAPI=7
-INHERIT=acct-group
-KEYWORDS=~amd64 ~arm64 ~x86
-SLOT=0
-_eclasses_=user-info	2e75eaea3582b052ec16d9d5aa74ced3	user	1033b6bed7cf367c4507ea9a3ff503d0	acct-group	d12e466819e60dedccac935746c2b151
-_md5_=c6bc9abf6725f0b225dabae28a155dbe

@@ -1,5 +1,3 @@
-acct-group/rabbitmq 0: RabbitMQ program group
-acct-user/rabbitmq 0: RabbitMQ program user
 app-admin/mei-amt-check 0_p20180507: AMT status checker
 app-misc/gron 0.6.1: Transforms JSON into assignments to grep for what you want
 dev-db/msodbcsql 17.7.2.1.1-r1: Microsoft ODBC Driver 17 for SQL Server
