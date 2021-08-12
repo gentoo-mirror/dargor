@@ -12,4 +12,4 @@ RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.9.3/rabbitmq-server-3.9.3.tar.xz
 _eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	python-utils-r1	f5408c7f165c2c81b787182c52bc41dd	python-any-r1	901d9e22c7a848a1196502edf060f330	systemd	c846b9e02ac8293bfc9ca38a195c2a18
-_md5_=918a7a990b942bae590f4758d7c56460
+_md5_=494c94de5ebb1388233691b4ee1377a9
