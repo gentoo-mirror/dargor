@@ -5,5 +5,5 @@
 dev-python/dargor-py:pandas - Install dev-python/pandas
 dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
-net-misc/kafkacat:avro - Enable avro serialization/deserialization support
-net-misc/kafkacat:json - Enable json support
+net-misc/kcat:avro - Enable avro serialization/deserialization support
+net-misc/kcat:json - Enable json support
