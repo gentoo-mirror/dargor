@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=https://github.com/mjg59/mei-amt-check/archive/ec921d1e0a2ac770e7835589a28b85bc2f15200c.tar.gz -> mei-amt-check-0_p20180507.tar.gz
-_eclasses_=vcs-snapshot	b1abf460a493fc59ebb25de0df3f09dd	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	linux-info	bd055a2488f3388795977677aaa9e714
+_eclasses_=vcs-snapshot	b1abf460a493fc59ebb25de0df3f09dd	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	linux-info	c3a16f0980b27d1eb843991a9e5f7237
 _md5_=a5285eae1ca400223a00a9e459cdb911
