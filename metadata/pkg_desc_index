@@ -1,4 +1,5 @@
 app-admin/mei-amt-check 0_p20180507: AMT status checker
+app-admin/vault 1.8.2: A tool for managing secrets
 app-misc/gron 0.6.1: Transforms JSON into assignments to grep for what you want
 dev-db/msodbcsql 17.7.2.1.1-r1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.7.1.1.1-r1: Microsoft SQL Server command-line tools

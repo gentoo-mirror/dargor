@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-admin/vault:webui - Enable the Web UI
 dev-python/dargor-py:pandas - Install dev-python/pandas
 dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
