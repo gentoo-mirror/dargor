@@ -3,7 +3,7 @@ app-admin/vault 1.8.2: A tool for managing secrets
 app-editors/vim 8.2.3455: Vim, an improved vi-style text editor
 app-editors/vim-core 8.2.3455: vim and gvim shared files
 app-misc/gron 0.6.1: Transforms JSON into assignments to grep for what you want
-app-misc/htmlq 0.3.0: Command-line HTML processor - like jq, but for HTML.
+app-misc/htmlq 0.3.0: Command-line HTML processor - like jq, but for HTML
 dev-db/msodbcsql 17.7.2.1.1-r1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.7.1.1.1-r1: Microsoft SQL Server command-line tools
 dev-python/dargor-py 0.3.0: Dargor's most common routines
@@ -26,4 +26,4 @@ dev-util/yamllint 1.26.3: Linter for YAML files
 net-misc/kcat 1.7.0: Generic command line non-JVM Apache Kafka producer and consumer
 net-misc/rabbitmq-server 3.9.6: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
 sys-firmware/sof-firmware 1.8: Sound Open Firmware (SOF) binary files
-www-apps/geckodriver 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
+www-apps/geckodriver 0.30.0: WebDriver for Gecko-based browsers
