@@ -21,7 +21,7 @@ dev-python/flake8-use-fstring 1.1: Jump-start into modern Python by forcing your
 dev-python/pretty-errors 1.2.24: Prettifies Python exception output to make it legible
 dev-python/ptpython 3.0.20: Python REPL build on top of prompt_toolkit
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
-dev-util/glab 1.20.0-r1: GitLab command line tool
+dev-util/glab 1.21.0: GitLab command line tool
 dev-util/yamllint 1.26.3: Linter for YAML files
 net-misc/kcat 1.7.0: Generic command line non-JVM Apache Kafka producer and consumer
 net-misc/rabbitmq-server 3.9.7: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
