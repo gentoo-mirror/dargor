@@ -10,6 +10,7 @@ app-editors/vim:vim-pager - Install vimpager and vimmanpager links
 dev-python/dargor-py:pandas - Install dev-python/pandas
 dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
+dev-python/vowpalwabbit:flatbuffers - Build with dev-libs/flatbuffers support
 net-misc/kcat:avro - Enable avro serialization/deserialization support
 net-misc/kcat:json - Enable json support
 sci-libs/vowpalwabbit:flatbuffers - Build with dev-libs/flatbuffers support
