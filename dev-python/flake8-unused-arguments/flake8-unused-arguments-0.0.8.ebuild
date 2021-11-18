@@ -5,19 +5,17 @@ EAPI=8
 
 PYTHON_COMPAT=( python3_{8..10} )
 
-DISTUTILS_USE_SETUPTOOLS=rdepend
 inherit distutils-r1
 
-DESCRIPTION="Linter for YAML files"
-HOMEPAGE="https://github.com/adrienverge/yamllint"
+DESCRIPTION="Flake8 plugin to warn against unused arguments in functions"
+HOMEPAGE="https://github.com/nhoad/flake8-unused-arguments"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
-LICENSE="GPL-3+"
+LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 RDEPEND="
-	dev-python/pathspec[${PYTHON_USEDEP}]
-	dev-python/pyyaml[${PYTHON_USEDEP}]
+	>=dev-python/flake8-3.0.0[${PYTHON_USEDEP}]
 "
