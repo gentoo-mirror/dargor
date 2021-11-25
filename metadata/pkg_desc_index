@@ -19,7 +19,7 @@ dev-python/pretty-errors 1.2.25: Prettifies Python exception output to make it l
 dev-python/ptpython 3.0.20: Python REPL build on top of prompt_toolkit
 dev-python/vowpalwabbit 8.11.0: Vowpal Wabbit fast online learning code
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
-dev-util/gitleaks 7.6.1 8.0.3: Scan git repos or files for secrets
+dev-util/gitleaks 7.6.1 8.0.4: Scan git repos or files for secrets
 dev-util/glab 1.21.1: GitLab command line tool
 dev-util/yamllint 1.26.3: Linter for YAML files
 net-misc/kcat 1.7.0-r1: Generic command line non-JVM Apache Kafka producer and consumer
