@@ -23,7 +23,7 @@ dev-util/gitleaks 7.6.1 8.0.6: Scan git repos or files for secrets
 dev-util/glab 1.21.1: GitLab command line tool
 dev-util/yamllint 1.26.3: Linter for YAML files
 net-misc/kcat 1.7.0-r1: Generic command line non-JVM Apache Kafka producer and consumer
-net-misc/rabbitmq-server 3.9.10: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
+net-misc/rabbitmq-server 3.9.11: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
 sci-libs/vowpalwabbit 8.11.0-r2: Vowpal Wabbit fast online learning code
 sys-firmware/sof-firmware 1.9.2: Sound Open Firmware (SOF) binary files
 www-apps/geckodriver 0.30.0: WebDriver for Gecko-based browsers
