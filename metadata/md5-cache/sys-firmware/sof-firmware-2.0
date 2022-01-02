@@ -6,4 +6,4 @@ KEYWORDS=~amd64
 LICENSE=BSD
 SLOT=0
 SRC_URI=https://github.com/thesofproject/sof-bin/archive/v2.0.tar.gz -> sof-firmware-2.0.tar.gz
-_md5_=efdb58c7b13a00f3623d1e61a8b45121
+_md5_=bac8ba048678858d9cf3b8c8ddcd00c2

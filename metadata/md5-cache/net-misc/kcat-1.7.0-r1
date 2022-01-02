@@ -11,4 +11,4 @@ RDEPEND=>=dev-libs/librdkafka-0.9.4 avro? ( dev-libs/avro-c dev-libs/libserdes )
 SLOT=0
 SRC_URI=https://github.com/edenhill/kcat/archive/1.7.0.tar.gz -> kcat-1.7.0.tar.gz
 _eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	8a0248f83ae77f945d376ff4a7953257
-_md5_=805e6df506db7e4e337ab2465fb62f38
+_md5_=3548fb3239ae8e0091c01061e4c2a89b
