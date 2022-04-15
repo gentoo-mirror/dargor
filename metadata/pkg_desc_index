@@ -25,5 +25,5 @@ dev-util/envdir 1.0.1: Python port of daemontools' envdir
 net-misc/kcat 1.7.0-r1: Generic command line non-JVM Apache Kafka producer and consumer
 net-misc/rabbitmq-server 3.9.15: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
 sci-libs/vowpalwabbit 9.1.0: Vowpal Wabbit fast online learning code (vw command)
-sys-firmware/sof-firmware 2.0: Sound Open Firmware (SOF) binary files
+sys-firmware/sof-firmware 2.1.1: Sound Open Firmware (SOF) binary files
 www-apps/geckodriver 0.31.0: WebDriver for Gecko-based browsers
