@@ -23,7 +23,7 @@ dev-python/vowpalwabbit 9.1.0: Vowpal Wabbit fast online learning code (python m
 dev-python/vulture 2.3: Find dead Python code
 dev-util/cargo-edit 0.9.1: Utility for managing cargo dependencies from the command line
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
-net-misc/kcat 1.7.0-r1: Generic command line non-JVM Apache Kafka producer and consumer
+net-misc/kcat 1.7.1: Generic command line non-JVM Apache Kafka producer and consumer
 net-misc/rabbitmq-server 3.9.20: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
 sci-libs/vowpalwabbit 9.1.0: Vowpal Wabbit fast online learning code (vw command)
 sec-keys/openpgp-keys-dargor 20220601: OpenPGP keys used by Dargor
