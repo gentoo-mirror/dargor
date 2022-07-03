@@ -4,7 +4,7 @@ app-misc/htmlq 0.4.0: Command-line HTML processor - like jq, but for HTML
 dev-db/msodbcsql 17.9.1.1.1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.9.1.1.1: Microsoft SQL Server command-line tools
 dev-python/dargor-py 0.5.8: Dargor's most common routines
-dev-python/flake8-bugbear 22.6.22: A plugin for Flake8 finding likely bugs and design problems in your program
+dev-python/flake8-bugbear 22.7.1: A plugin for Flake8 finding likely bugs and design problems in your program
 dev-python/flake8-builtins 1.5.3: Check for python builtins being used as variables or parameters
 dev-python/flake8-commas 2.1.0: Flake8 extension to enforce better comma placement
 dev-python/flake8-comprehensions 3.10.0: A flake8 plugin that helps you write better list/set/dict comprehensions
