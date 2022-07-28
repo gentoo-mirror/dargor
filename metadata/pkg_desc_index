@@ -21,7 +21,7 @@ dev-python/ptpython 3.0.20: Python REPL build on top of prompt_toolkit
 dev-python/ta-lib 0.4.24: Python wrapper for TA-Lib
 dev-python/vowpalwabbit 9.2.0: Vowpal Wabbit fast online learning code (python module)
 dev-python/vulture 2.3: Find dead Python code
-dev-util/cargo-edit 0.10.2: Utility for managing cargo dependencies from the command line
+dev-util/cargo-edit 0.10.3: Utility for managing cargo dependencies from the command line
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
 net-misc/kcat 1.7.1: Generic command line non-JVM Apache Kafka producer and consumer
 net-misc/rabbitmq-server 3.9.21: RabbitMQ is a high-performance AMQP-compliant message broker written in Erlang
