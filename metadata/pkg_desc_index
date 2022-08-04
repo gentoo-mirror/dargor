@@ -8,8 +8,8 @@ dev-python/flake8-bugbear 22.7.1: A plugin for Flake8 finding likely bugs and de
 dev-python/flake8-builtins 1.5.3: Check for python builtins being used as variables or parameters
 dev-python/flake8-commas 2.1.0: Flake8 extension to enforce better comma placement
 dev-python/flake8-comprehensions 3.10.0: A flake8 plugin that helps you write better list/set/dict comprehensions
-dev-python/flake8-isort 4.1.2-r1: Flake8 plugin that integrates isort
-dev-python/flake8-logging-format 0.6.0-r1: Flake8 extension to validate (lack of) logging format strings
+dev-python/flake8-isort 4.2.0: Flake8 plugin that integrates isort
+dev-python/flake8-logging-format 0.6.0-r1 0.6.0_p20220801: Flake8 extension to validate (lack of) logging format strings
 dev-python/flake8-plugin-utils 1.3.2: Base classes and utils for writing flake8 plugins
 dev-python/flake8-quotes 3.3.1: Flake8 extension to lint for quotes
 dev-python/flake8-return 1.1.3: Flake8 plugin for return expressions checking
