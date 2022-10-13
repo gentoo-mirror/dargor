@@ -26,4 +26,4 @@ dev-util/envdir 1.0.1: Python port of daemontools' envdir
 net-misc/kcat 1.7.1: Generic command line non-JVM Apache Kafka producer and consumer
 sci-libs/vowpalwabbit 9.4.0: Vowpal Wabbit fast online learning code (vw command)
 sec-keys/openpgp-keys-dargor 20221007: OpenPGP keys used by Dargor
-www-apps/geckodriver 0.31.0: WebDriver for Gecko-based browsers
+www-apps/geckodriver 0.32.0: WebDriver for Gecko-based browsers
