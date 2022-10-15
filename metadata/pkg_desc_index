@@ -18,12 +18,11 @@ dev-python/flake8-use-fstring 1.4: Jump-start into modern Python by forcing your
 dev-python/perflint 0.7.3: A linter for performance anti-patterns in Python
 dev-python/pretty-errors 1.2.25: Prettifies Python exception output to make it legible
 dev-python/ptpython 3.0.20: Python REPL build on top of prompt_toolkit
-dev-python/ta-lib 0.4.24: Python wrapper for TA-Lib
+dev-python/ta-lib 0.4.25: Python wrapper for TA-Lib
 dev-python/vowpalwabbit 9.5.0: Vowpal Wabbit fast online learning code (python module)
-dev-python/vulture 2.3: Find dead Python code
+dev-python/vulture 2.6: Find dead Python code
 dev-util/cargo-edit 0.11.5: Utility for managing cargo dependencies from the command line
 dev-util/envdir 1.0.1: Python port of daemontools' envdir
-net-misc/kcat 1.7.1: Generic command line non-JVM Apache Kafka producer and consumer
 sci-libs/vowpalwabbit 9.5.0: Vowpal Wabbit fast online learning code (vw command)
 sec-keys/openpgp-keys-dargor 20221007: OpenPGP keys used by Dargor
 www-apps/geckodriver 0.32.0: WebDriver for Gecko-based browsers
