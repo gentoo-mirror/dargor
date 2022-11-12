@@ -16,7 +16,7 @@ dev-python/flake8-quotes 3.3.1-r1: Flake8 extension to lint for quotes
 dev-python/flake8-return 1.2.0: Flake8 plugin for return expressions checking
 dev-python/flake8-unused-arguments 0.0.12: Flake8 plugin to warn against unused arguments in functions
 dev-python/flake8-use-fstring 1.4-r1: Jump-start into modern Python by forcing yourself to use f-strings
-dev-python/loguru 0.6.0: Python logging made (stupidly) simple
+dev-python/loguru 0.6.0-r1: Python logging made (stupidly) simple
 dev-python/perflint 0.7.3-r1: A linter for performance anti-patterns in Python
 dev-python/pretty-errors 1.2.25-r1: Prettifies Python exception output to make it legible
 dev-python/ptpython 3.0.20-r2: Python REPL build on top of prompt_toolkit
