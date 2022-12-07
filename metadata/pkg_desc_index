@@ -5,7 +5,7 @@ dev-db/msodbcsql 17.10.1.1.1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.10.1.1.1: Microsoft SQL Server command-line tools
 dev-libs/librdkafka 1.9.2: Apache Kafka C/C++ client library
 dev-python/dargor-py 0.5.9: Dargor's most common routines
-dev-python/flake8-bugbear 22.10.27: A plugin for Flake8 finding likely bugs and design problems in your program
+dev-python/flake8-bugbear 22.12.6: A plugin for Flake8 finding likely bugs and design problems in your program
 dev-python/flake8-builtins 2.0.1: Check for python builtins being used as variables or parameters
 dev-python/flake8-commas 2.1.0-r1: Flake8 extension to enforce better comma placement
 dev-python/flake8-comprehensions 3.10.1: A flake8 plugin that helps you write better list/set/dict comprehensions
@@ -19,7 +19,7 @@ dev-python/flake8-use-fstring 1.4-r1: Jump-start into modern Python by forcing y
 dev-python/loguru 0.6.0-r1: Python logging made (stupidly) simple
 dev-python/perflint 0.7.3-r1: A linter for performance anti-patterns in Python
 dev-python/pretty-errors 1.2.25-r1: Prettifies Python exception output to make it legible
-dev-python/ptpython 3.0.20-r2: Python REPL build on top of prompt_toolkit
+dev-python/ptpython 3.0.22: Python REPL build on top of prompt_toolkit
 dev-python/pure-cdb 4.0.0: Python library for creating and reading constant databases
 dev-python/ta-lib 0.4.25-r1: Python wrapper for TA-Lib
 dev-python/vowpalwabbit 9.5.0 9.6.0: Vowpal Wabbit fast online learning code (python module)
