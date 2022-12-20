@@ -2,6 +2,12 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-editors/vim:X - Link console vim against X11 libraries to enable title and clipboard features in xterm
+app-editors/vim:crypt - Use dev-libs/libsodium for crypto support
+app-editors/vim:cscope - Enable cscope interface
+app-editors/vim:racket - Enable support for Scheme using dev-scheme/racket
+app-editors/vim:terminal - Enable terminal emulation support
+app-editors/vim:vim-pager - Install vimpager and vimmanpager links
 dev-libs/librdkafka:lz4 - Enable support for Kafka's LZ4 compression based on KIP-57 (uses app-arch/lz4)
 dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
