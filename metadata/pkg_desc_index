@@ -27,7 +27,7 @@ dev-python/pure-cdb 4.0.0: Python library for creating and reading constant data
 dev-python/ta-lib 0.4.25-r1: Python wrapper for TA-Lib
 dev-python/vowpalwabbit 9.5.0 9.6.0: Vowpal Wabbit fast online learning code (python module)
 dev-python/vulture 2.6-r1: Find dead Python code
-dev-util/cargo-edit 0.11.6: Utility for managing cargo dependencies from the command line
+dev-util/cargo-edit 0.11.7: Utility for managing cargo dependencies from the command line
 dev-util/envdir 1.0.1-r1: Python port of daemontools' envdir
 sci-libs/vowpalwabbit 9.5.0 9.6.0: Vowpal Wabbit fast online learning code (vw command)
 sec-keys/openpgp-keys-dargor 20221007: OpenPGP keys used by Dargor
