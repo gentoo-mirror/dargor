@@ -5,7 +5,7 @@ dev-db/msodbcsql 17.10.1.1.1: Microsoft ODBC Driver 17 for SQL Server
 dev-db/mssql-tools 17.10.1.1.1: Microsoft SQL Server command-line tools
 dev-libs/librdkafka 1.9.2: Apache Kafka C/C++ client library
 dev-python/dargor-py 0.5.9: Dargor's most common routines
-dev-python/flake8-bugbear 23.1.14: A plugin for Flake8 finding likely bugs and design problems in your program
+dev-python/flake8-bugbear 23.1.17: A plugin for Flake8 finding likely bugs and design problems in your program
 dev-python/flake8-builtins 2.1.0: Check for python builtins being used as variables or parameters
 dev-python/flake8-commas 2.1.0-r1: Flake8 extension to enforce better comma placement
 dev-python/flake8-comprehensions 3.10.1: A flake8 plugin that helps you write better list/set/dict comprehensions
