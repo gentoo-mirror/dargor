@@ -1,6 +1,6 @@
 app-admin/mei-amt-check 0_p20180507: AMT status checker
-app-editors/vim 9.0.1247: Vim, an improved vi-style text editor
-app-editors/vim-core 9.0.1247: vim and gvim shared files
+app-editors/vim 9.0.1271: Vim, an improved vi-style text editor
+app-editors/vim-core 9.0.1271: vim and gvim shared files
 app-misc/elfx86exts 0.5.0: Disassemble an x86 binary and print out used instruction sets
 app-misc/htmlq 0.4.0: Command-line HTML processor - like jq, but for HTML
 dev-db/msodbcsql 17.10.1.1.1: Microsoft ODBC Driver 17 for SQL Server
