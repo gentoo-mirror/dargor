@@ -11,5 +11,3 @@ app-editors/vim:vim-pager - Install vimpager and vimmanpager links
 dev-libs/librdkafka:lz4 - Enable support for Kafka's LZ4 compression based on KIP-57 (uses app-arch/lz4)
 dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
-dev-python/vowpalwabbit:flatbuffers - Build with dev-libs/flatbuffers support
-sci-libs/vowpalwabbit:flatbuffers - Build with dev-libs/flatbuffers support
