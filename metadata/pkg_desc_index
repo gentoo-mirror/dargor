@@ -29,4 +29,4 @@ dev-python/vulture 2.7: Find dead Python code
 dev-util/cargo-edit 0.11.8: Utility for managing cargo dependencies from the command line
 dev-util/envdir 1.0.1-r1: Python port of daemontools' envdir
 sec-keys/openpgp-keys-dargor 20221007: OpenPGP keys used by Dargor
-www-apps/geckodriver 0.32.0: WebDriver for Gecko-based browsers
+www-apps/geckodriver 0.32.1: WebDriver for Gecko-based browsers
