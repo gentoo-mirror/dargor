@@ -5,3 +5,5 @@
 dev-libs/librdkafka:lz4 - Enable support for Kafka's LZ4 compression based on KIP-57 (uses app-arch/lz4)
 dev-python/ptpython:black - Add support for dev-python/black
 dev-python/ptpython:ipython - Add support for dev-python/ipython
+net-misc/dhcpcd:embedded - Embed the definitions of dhcp options in the dhcpcd executable
+net-misc/dhcpcd:privsep - Enable support for privilege separation
