@@ -24,7 +24,7 @@ dev-python/ptpython 3.0.23: Python REPL build on top of prompt-toolkit
 dev-python/pure-cdb 4.0.0: Python library for creating and reading constant databases
 dev-python/ta-lib 0.4.26: Python wrapper for TA-Lib
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
-dev-python/vulture 2.9: Find dead Python code
+dev-python/vulture 2.9.1: Find dead Python code
 dev-util/cargo-edit 0.12.0: Utility for managing cargo dependencies from the command line
 dev-util/envdir 1.0.1-r1: Python port of daemontools' envdir
 sec-keys/openpgp-keys-dargor 20221007: OpenPGP keys used by Dargor
